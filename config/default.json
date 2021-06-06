@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://muse123:muse123@mern-tmcourse-2g0h2.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "a890bf5bc0896a080c03",
-    "githubSecret": "020ca0f217cd1820778a311325a7794e5484c7ea"
+    "mongoURI": "",
+    "jwtSecret": "",
+    "githubClientId": "",
+    "githubSecret": ""
 }
